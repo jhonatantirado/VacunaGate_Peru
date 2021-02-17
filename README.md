@@ -17,5 +17,7 @@ Si hay algun error, siguiendo el procedimiento por favor envie su pull request y
 Fuentes:
 
 La República: https://es.scribd.com/document/494705902/Lista-de-los-487-que-accedieron-a-la-vacuna-Sinopharm-La-Republica#from_embed
+
 Diario Ahora: https://www.diarioahora.pe/wp-content/uploads/2021/02/LISTADO-SUDACA.PE_compressed.pdf
+
 Lima Gris: https://q4k8g6k3.stackpathcdn.com/wp-content/uploads/2021/02/LISTA-1-Lima-Gris.pdf
