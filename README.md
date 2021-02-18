@@ -11,7 +11,7 @@ Al menos 1 persona pertenece a un partido político.
 ## Pendientes
 
 1. Completar los DNI faltantes de 89 personas, buscando por nombre en SUNAT o RENIEC
-2. Validar si algún vacunado pertenece a algún partido político, buscando en el [Registro de Organizaciones Politicas!](https://aplicaciones007.jne.gob.pe/srop_publico/Consulta/Afiliado)
+2. Validar si algún vacunado pertenece a algún partido político, buscando en el [Registro de Organizaciones Politicas](https://aplicaciones007.jne.gob.pe/srop_publico/Consulta/Afiliado)
 
 
 ## Disclaimer
