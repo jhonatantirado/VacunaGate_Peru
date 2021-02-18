@@ -2,7 +2,16 @@
 
 Datos de 487 personas vacunadas durante el VacunaGate en Perú.
 
+Existen 20 registros duplicados por Apellidos y Nombres, por lo cual realmente son 467 personas las que recibieron la vacuna del COVID-19 de manera "irregular".
+
 Archivos transcritos, validados y revisados por tuiteros voluntarios.
+
+Al menos 1 persona pertenece a un partido político.
+
+## Pendientes
+
+1. Completar los DNI faltantes de 89 personas, buscando por nombre en SUNAT o RENIEC
+2. Validar si algún vacunado pertenece a algún partido político, buscando en el [Registro de Organizaciones Politicas!](https://aplicaciones007.jne.gob.pe/srop_publico/Consulta/Afiliado)
 
 
 ## Disclaimer
