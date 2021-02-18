@@ -11,7 +11,7 @@ Si deseas la información en formato json puedes acceder aquí:
 
 ## Disclaimer
 
-Los datos aquí presentados, provienen de información de interés nacional que se ha hecho pública a través de los medios de prensa locales. La fuente original es el archivo pdf denominado `487vacunados.pdf`. La transcripción (textual) se encuentra en el acrhivo `487vacunados.csv`.
+Los datos aquí presentados, provienen de información de interés nacional que se ha hecho pública a través de los medios de prensa locales. La fuente original es el archivo pdf denominado `487vacunados.pdf`. La transcripción textual se encuentra en el acrhivo `487vacunados.csv`.
 
 Nuestro propósito es poner a disposición de la opinión pública esta información de una manera sencilla y accesible por el interés colectivo de la sociedad civil. En un formato considerado OpenData (`.csv`).
 
