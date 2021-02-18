@@ -1,8 +1,8 @@
 # VacunaGate_Peru
 
-Datos de 487 personas vacunadas durante el VacunaGate en Perú.
+Datos de 487 personas vacunadas durante el VacunaGate en Perú, usando la vacuna del laboratorio chino Sinopharm, en el contexto del ensayo clínico realizado por la Universidad Peruana Cayetano Heredia (UPCH) y la Universidad Nacional Mayor de San Marcos (UNMSM).
 
-Existen 20 registros duplicados por Apellidos y Nombres, por lo cual realmente son 467 personas las que recibieron la vacuna del COVID-19 de manera "irregular".
+Existen 20 registros duplicados por Apellidos y Nombres, por lo cual realmente son 467 personas las que recibieron la vacuna del COVID-19 fuera del ensayo clínico.
 
 Archivos transcritos, validados y revisados por tuiteros voluntarios.
 
