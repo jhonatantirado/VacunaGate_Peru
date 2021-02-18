@@ -16,7 +16,7 @@ Si hay algun error, siguiendo el procedimiento por favor envie su pull request y
 
 ## Pertenencia a partidos políticos
 
-PALOMA LUCIA VERNE UGARTE, con DNI 72973980, pertenece a ACCIÓN POPULAR
+PALOMA LUCIA VERNE UGARTE (fila 270), con DNI 72973980, pertenece a ACCIÓN POPULAR
 ![PALOMA LUCIA VERNE UGARTE, con DNI 72973980, pertenece a ACCIÓN POPULAR](https://github.com/jhonatantirado/VacunaGate_Peru/blob/main/images/ACCION%20POPULAR%20-%20PALOMA%20LUCIA%20VERNE%20UGARTE.png)
 
 ## Fuentes
